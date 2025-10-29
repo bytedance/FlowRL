@@ -22,7 +22,7 @@
 <!-- 注释：以上为Seed官方信息，可直接复制使用，请注意导入“Seed WeChat”（第12行）、“Seed logo”(第20行)图片替换 -->
 
 
-# Flow-based Polciy for Online Reinforcement Learning
+# Flow-based Policy for Online Reinforcement Learning
 <p align="center">
   <a href="https://github.com/bytedance/flux">
     <img src="https://img.shields.io/badge/COMET-Project Page-yellow"></a>
