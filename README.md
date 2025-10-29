@@ -23,6 +23,7 @@ We are delighted to introduce FlowRL. It is a new approach for online reinforcem
 
 ## News
 [2025/06/10]🔥We release the PyTorch version of the code.
+[2025/09/18]🎉Our paper has been accepted to NeurIPS 2025.
 ## Introduction
 FlowRL is an  Actor-Critic framework that leverages flow-based policy representation and integrates Wasserstein-2-regularized optimization. By implicitly constraining the current policy to the optimal behavioral policy via W2 distance, FlowRL achieves superior performance on challenging benchmarks like the DM_Control (Dog domain, Humanoid domain) and Humanoid_Bench.
 ## Getting Started
