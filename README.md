@@ -4,18 +4,7 @@
     We are <b>ByteDance Seed team.</b>
 </div>
 
-<p align="center">
-  You can get to know us better through the following channels👇
-  <br>
-  <a href="https://seed.bytedance.com/">
-    <img src="https://img.shields.io/badge/Website-%231e37ff?style=for-the-badge&logo=bytedance&logoColor=white"></a>
-  <a href="https://github.com/user-attachments/assets/5793e67c-79bb-4a59-811a-fcc7ed510bd4">
-    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"></a>
- <a href="https://www.xiaohongshu.com/user/profile/668e7e15000000000303157d?xsec_token=ABl2-aqekpytY6A8TuxjrwnZskU-6BsMRE_ufQQaSAvjc%3D&xsec_source=pc_search">
-    <img src="https://img.shields.io/badge/Xiaohongshu-%23FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"></a>
-  <a href="https://www.zhihu.com/org/dou-bao-da-mo-xing-tuan-dui/">
-    <img src="https://img.shields.io/badge/zhihu-%230084FF?style=for-the-badge&logo=zhihu&logoColor=white"></a>
-</p>
+
 
 ![seed logo](https://github.com/user-attachments/assets/c42e675e-497c-4508-8bb9-093ad4d1f216)
 
@@ -23,19 +12,7 @@
 
 
 # Flow-based Policy for Online Reinforcement Learning
-<p align="center">
-  <a href="https://github.com/bytedance/flux">
-    <img src="https://img.shields.io/badge/COMET-Project Page-yellow"></a>
-  <a href="https://arxiv.org/pdf/2502.19811">
-    <img src="https://img.shields.io/badge/COMET-Tech Report-red"></a>
-  <a href="XXXX">
-    <img src="https://img.shields.io/badge/COMET-Hugging Face-orange"></a>
-  <br>
-  <a href="https://github.com/user-attachments/assets/d3fcb3bf-466b-4efe-8c3f-5f85258202ae">
-    <img src="https://img.shields.io/badge/COMET-Wechat Communication Group-07C160"></a>
-  <a href="XXX">
-    <img src="https://img.shields.io/badge/License-XXX-blue"></a>
-</p>
+
 
 We are delighted to introduce FlowRL. It is a new approach for online reinforcement learning that integrates flow-based policy representation with Wasserstein-2-regularized optimization. This creates a promising framework that integrates generative policies with reinforcement learning.
 
